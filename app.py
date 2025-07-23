@@ -134,5 +134,5 @@ if predict_btn:
 # Footer
 st.markdown("""
     <hr>
-    <p style='text-align: center;'>Developed with ❤️ by <strong>Saif & Samar</strong></p>
+    <p style='text-align: center;'>Developed with ❤️</p>
 """, unsafe_allow_html=True)
